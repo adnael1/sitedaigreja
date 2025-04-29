@@ -15,7 +15,7 @@
  }
 
  .Container {
-   width: 500px;
+   width: 350px;
    background-color: transparent;
    border: 2px solid #8f898973;
    border-radius: 10px;
@@ -33,20 +33,21 @@
 
  .Container p {
    margin: 30px;
-   font-size: 30px;
+   font-size: 15px;
    height: 40px;
+
 
 
  }
 .botao1{
   background: black;
   padding: 8px;
-  width: 10px;
+  width: 5px;
   color: #fff;
-  border: 2px solid black;
+  border: 1px solid black;
   border-radius: 25px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 10px;
 }
 .botao1:hover{
   text-decoration: underline;
@@ -58,12 +59,12 @@
 .botao2{
   background: black;
   padding: 8px;
-  width: 10px;
+  width: 5px;
   color: #fff;
   border: 2px solid black;
   border-radius: 25px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 10px;
 }
 .botao2:hover{
   text-decoration: underline;
@@ -74,12 +75,12 @@
 .botao3{
   background: black;
   padding: 8px;
-  width: 10px;
+  width: 5px;
   color: #fff;
   border: 2px solid black;
   border-radius: 25px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 10px;
 }
 .botao3:hover{
   text-decoration: underline;
@@ -90,12 +91,12 @@
 .botao4{
   background: black;
   padding: 8px;
-  width: 10px;
+  width: 5px;
   color: #fff;
   border: 2px solid black;
   border-radius: 25px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 10px;
 }
 .botao4:hover{
   text-decoration: underline;
