@@ -100,3 +100,12 @@ li {
     letter-spacing: 2px;
     margin-top: 5px;
 }
+.item5 {
+    display: inline-block;
+    justify-content: left;
+    font-size: 20px;
+    height: 270px;
+    width: 460px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+}
